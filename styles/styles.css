@@ -1,0 +1,29 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+body {
+    font: 1.2em / 1.5 system-ui;
+    width: 1280px;
+    margin: 0 auto;
+    padding: 16px;
+}
+
+.sender-column {
+    text-align: right;
+}
+
+time.sender-column {
+    display: block;
+}
+
+
+h1 {
+    font-size: 1.5em;
+}
+
+h2 {
+    font-size: 1.3em;
+}
