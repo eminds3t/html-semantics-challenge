@@ -44,3 +44,6 @@ Este ejercicio refuerza:
 ---
 
 ✍️ *"El marcado no quiere decir que sea menos importante: son los cimientos."*
+
+W3C OFICIAL - HTML VALIDATOR: SCORE 100%
+<img width="1833" height="770" alt="Screenshot 2025-08-28 172405" src="https://github.com/user-attachments/assets/3347718d-56dd-4e0c-892b-b9869ebe5cca" />
